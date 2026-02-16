@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am currently starting my programming journey with a focus on C# and Object-Oriented Programming. I am also exploring SQL databases, IoT concepts, and PHP to build a strong foundation. I'm passionate about learning new technologies and improving my coding skills every day.
+
+Şu anda programlama yolculuğuma C# ve Nesne Yönelimli Programlama odaklı olarak başlıyorum. Ayrıca sağlam bir temel oluşturmak için SQL veritabanları, IoT kavramları ve PHP'yi keşfediyorum. Yeni teknolojiler öğrenmeye ve kodlama becerilerimi her gün geliştirmeye tutkuluyum.
+
 <!--
 **TheNight16/TheNight16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
